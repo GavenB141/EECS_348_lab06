@@ -1,0 +1,7 @@
+#paragraph {
+	padding: 8px;
+	margin: 8px;
+	width: fit-content;
+
+	border-style: solid;
+}
