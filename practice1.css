@@ -4,6 +4,14 @@ body {
   font-family: monospace;
 }
 
+.container {
+  padding: 16px;
+  background-color: rgba(0,0,0,0.75);
+  border: 2px solid white;
+  border-radius: 16px;
+  width: fit-content;
+}
+
 a {
   color: #C0FFEE;
 }
