@@ -1,0 +1,15 @@
+body {
+  background-color: #101418;
+  color: white;
+  font-family: monospace;
+}
+
+a {
+  color: #C0FFEE;
+}
+
+img {
+  height: fit-content;
+  border: 2px solid #DEF;
+  border-radius: 8px;
+}
